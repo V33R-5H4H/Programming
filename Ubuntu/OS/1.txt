@@ -1,0 +1,12 @@
+ls 
+man
+pwd
+cd
+touch
+mkdir
+rm
+rmdir
+cat
+cp
+more
+mv

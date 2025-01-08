@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(3, 73, 97);
+}
+h2{
+    color: rgb(207, 33, 33);
+    text-align: center;
+}
+h3{
+  color:springgreen;
+  text-align: center;
+}
+p{
+  color:rgb(255, 255, 255);
+  text-align: center;
+}
